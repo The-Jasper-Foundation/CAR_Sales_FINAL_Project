@@ -15,7 +15,7 @@ The saved review information and sales information can then be accessed dependin
                 
           (E)  MENU_FEEDBACK:
                 
-          (F)  MENU_EXIT:
+              MENU_EXIT:
               
   ### With an error handling to ensure that the program continued if none of the options were selected.
             "Invalid choice. Please try again"
